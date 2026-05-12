@@ -33,3 +33,6 @@ I am a hardworking and detail-oriented **Data Analyst**. I love turning raw, mes
 
 ## 🛠️ Skills
 Data Cleaning • Excel • SQL • Power BI • Data Visualization • Reporting
+
+## 📄 Resume
+https://drive.google.com/file/d/1MboDiPwJhkbp_L5LDNJ-WiZMyqRTmTOt/view?usp=drivesdk
